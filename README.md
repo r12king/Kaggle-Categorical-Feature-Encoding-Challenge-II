@@ -21,13 +21,12 @@ Project Organization
 
 How to package the project
 ------------
-> cd /Users/ryanking/Kaggle-Categorical-Feature-Encoding-Challenge-II
+A good reference can be found here: https://packaging.python.org/tutorials/packaging-projects/
+```python
+cd /Users/ryanking/Kaggle-Categorical-Feature-Encoding-Challenge-II
+setup.py sdist bdist_wheel
+```
 
-> setup.py sdist bdist_wheel
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

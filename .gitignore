@@ -1,5 +1,6 @@
 # Project specific folders not needed to commit
 data
+.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
