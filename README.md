@@ -23,8 +23,14 @@ How to package the project
 ------------
 > cd /Users/ryanking/Kaggle-Categorical-Feature-Encoding-Challenge-II
 
-> A
+> setup.py sdist bdist_wheel
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 A good markdown reference:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
