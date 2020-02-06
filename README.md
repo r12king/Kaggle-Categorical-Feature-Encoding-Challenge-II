@@ -18,3 +18,15 @@ Project Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
+
+How to package the project
+------------
+> cd /Users/ryanking/Kaggle-Categorical-Feature-Encoding-Challenge-II
+
+> A
+
+
+A good markdown reference:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+<p><small>Project loosely based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>

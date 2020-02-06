@@ -1,6 +1,5 @@
 # Project specific folders not needed to commit
-data/interim
-data/processed
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
